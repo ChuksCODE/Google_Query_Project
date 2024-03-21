@@ -23,4 +23,9 @@ Google Query is like a magical treasure chest for numbers and words.
 ## Data Sources
 - The data used was provided by the SkilHarvest Intsructor, Mr. TeeDee
 - Here is pictorial view of the cross-section of the data
-  ![]()
+  
+  ![](stationarysupplies.png)
+
+  ## Tools Used
+  - Excel sheet [Download Here](
+
